@@ -10,8 +10,7 @@
 
 If you have any questions or concerns, feel free to contact me via Telegram:
 
-[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://telegram.dog/Adrenalinators)
-[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram)](https://telegram.dog/Adrenalinators)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijaysingh147/TXTLeechBot)
 
 ### .env
 ```sh
